@@ -1,5 +1,5 @@
 run:
-	xelatex 23.tex
+	xelatex example.tex
 	make clean
 	
 clean:
