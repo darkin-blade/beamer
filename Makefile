@@ -1,5 +1,5 @@
 run:
-	xelatex example.tex
+	xelatex ctexart.tex
 	make clean
 	
 clean:
